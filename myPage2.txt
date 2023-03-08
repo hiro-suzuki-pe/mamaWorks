@@ -1,0 +1,1132 @@
+
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-48144639-4"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-48144639-4');
+    gtag('config', 'AW-974979144');
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-5VFCBDV');</script>
+  <!-- End Google Tag Manager -->
+    <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <title>お気に入り｜在宅ワーク・内職の求人・アルバイト情報なら主婦のためのママワークス</title>
+  <meta name="description" itemprop="description" content="スキルを活かして在宅でテレアポ！時間や場所を選ばない新しいワークスタイルを応援する、主婦向け在宅ワーク(内職)の支援サービスなら[ママワークス mama works]豊富な求人情報の中から高時給・未経験OK・日払いなどあなたの希望の条件で簡単に検索が可能です！">
+  <meta name="csrf-token" content="rCZqJkWNiWREw9AZ9OtiJP3a9kwjxwXQYpSdX6lg">
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="format-detection" content="telephone=no" />
+  <meta name="facebook-domain-verification" content="hj0x71lzz9nk9x9kealercn28n2z11" />
+      <link rel="shortcut icon" href="https://mamaworks.jp/img/frontend/worker/icon/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="https://mamaworks.jp/img/frontend/worker/icon/favicon.ico" type="image/x-icon">
+  <link rel="apple-touch-icon" href="https://mamaworks.jp/img/frontend/worker/icon/favicon.ico" sizes="16x16" />
+  <link rel="icon" type="image/png" href="https://mamaworks.jp/img/frontend/worker/icon/favicon.ico" sizes="16x16">
+  <link rel="icon" type="image/png" href="https://mamaworks.jp/img/frontend/worker/icon/favicon.ico" sizes="32x32">
+  <link rel="icon" type="image/png" href="https://mamaworks.jp/img/frontend/worker/icon/favicon.ico" sizes="64x64">
+  <link href="https://fonts.googleapis.com/css?family=M+PLUS+Rounded+1c:300,400,500,700&display=swap&subset=japanese" rel="stylesheet">
+  <link rel="stylesheet" href='https://mamaworks.jp/css/worker.css'>
+  <script>
+        !function(f,b,e,v,n,t,s)
+        {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+        if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+        n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t,s)}(window, document,'script',
+        'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '577408083988378');
+        fbq('track', 'PageView');
+    </script>
+    <noscript>
+        <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=577408083988378&ev=PageView&noscript=1"/>
+    </noscript>
+</head>
+
+<body>
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5VFCBDV"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <header class="header-content">
+    <div class="header-inner">
+      <div class="header-content__logo">
+                  <a href="/worker">
+            <img src="https://mamaworks.jp/img/frontend/worker/mama_worker_logo.svg" alt="logo">
+          </a>
+              </div>
+
+      <ul class="header-content__box">
+        <li class="header-content__box-up">
+          <div class="header-content__up-right-box">
+  <ul class="header-content__menu -worker">
+          <li>
+        <a href="https://mamaworks.jp"><span>TOP</span></a>
+      </li>
+      <li>
+        <a href="https://mamaworks.jp/list"><span>お仕事を探す</span></a>
+      </li>
+      <li>
+        <a href="/about"><span>ママワークスとは</span></a>
+      </li>
+      <li>
+        <a href="/column/?cat=11"><span>掲載企業様の声</span></a>
+      </li>
+      <li>
+        <a href="/column"><span>お役立ち情報</span></a>
+      </li>
+      <li>
+        <a href="/faq"><span>よくあるご質問</span></a>
+      </li>
+      </ul>
+      <a href="/client/top" class="header-content__change-btn">
+      <p>ママワークスの利用を検討中の企業様はこちら</p>
+      <img src="https://mamaworks.jp/img/frontend/common/arrow_icon_light_gray.svg" alt="client_mypage">
+    </a>
+    <div class="header-content__up-login">
+          <a href="/profile">
+        <img src="https://mamaworks.jp/img/frontend/worker/mypage_icon.svg" alt="worker_mypage">
+        <span>マイページ</span>
+      </a>
+        </div>
+  
+    <input type="checkbox" id="sp-checkbox">
+    <label id="sp-icon" class="-worker" for="sp-checkbox">
+      <span></span>
+    </label>
+    <label id="sp-close" for="sp-checkbox"></label>
+  <div id="sp-content">
+    <ul>
+            <li>
+        <a href="/">
+          <span>TOP</span>
+          <span>></span>
+        </a>
+      </li>
+      <li>
+        <a href="https://mamaworks.jp/list">
+          <span>お仕事を探す</span>
+          <span>></span>
+        </a>
+      </li>
+      <li>
+        <a href="/about">
+          <span>ママワークスとは</span>
+          <span>></span>
+        </a>
+      </li>
+      <li>
+        <a href="/column">
+          <span>お役立ち情報</span>
+          <span>></span>
+        </a>
+      </li>
+      <li>
+        <a href="/column/?cat=11">
+          <span>掲載企業様の声</span>
+          <span>></span>
+        </a>
+      </li>
+      <li>
+        <a href="/faq">
+          <span>よくあるご質問</span>
+          <span>></span>
+        </a>
+      </li>
+      <li>
+        <a href="/contact">
+          <span>お問い合わせ</span>
+          <span>></span>
+        </a>
+      </li>
+          </ul>
+
+    <div class="action-button">
+            <a href=/profile>
+        <button type="button" class="c-sp-menu-mypage-btn">マイページ</button>
+      </a>
+      <a href=/logout>
+        <button type="button" class="c-sp-menu-logout-btn">ログアウト</button>
+      </a>
+          </div>
+  </div>
+</div>
+        </li>
+        <li class="header-content__box-down">
+          <section class="header-content__down--pc">
+  <div class="header-content__search">
+          <form method="GET" action="https://mamaworks.jp/list" accept-charset="UTF-8">
+      <input placeholder="(例) Webデザイナー" class="header-content__search-text" name="free_word" type="text">
+              <button type="submit" class="header-content__search-btn--green">
+        <span>お仕事を探す</span>
+      </button>
+        </form>
+  </div>
+  <div class="header-content__contact-items">
+                      <a href="/mypage_recruit" class="u-dsp-table u-font-bold c-bg-pink-btn header_arrow_icon_white -worker">
+        <span class="u-dsp-table-cell u-pdg-l-5">マイページ</span>
+      </a>
+      <a href="/logout" class="u-dsp-table u-font-bold c-bg-white-btn header_arrow_icon_pink">
+        <span class="u-dsp-table-cell u-pdg-l-5">ログアウト</span>
+      </a>
+      </div>
+</section>
+
+
+
+        </li>
+      </ul>
+  </div>
+
+</header>
+      <main class="main-content">
+    <div id="app">
+          <article class="p-mypage color-bg-beige">
+        <div class="p-mypage__breadcrumbs">
+        </div>
+        <div class="new_recruits_wrap">
+            <section class="p-new-recruits">
+    <div class="p-new-recruits__area">
+        <a href="/new_recruit" class="p-new-recruits__link">
+            <img class="p-new-recruits__img" src="https://mamaworks.jp/img/frontend/worker/new_recruits_link_img.svg" alt="">
+        </a>
+    </div>
+    <div class="p-new-recruits__contact">
+        <a href="https://mamaworks.jp/contact" class="p-new-recruits__link">
+            <img class="p-new-recruits__img" src="https://mamaworks.jp/img/frontend/worker/contact_link_img.svg" alt="">
+        </a>
+    </div>
+</section>            <section class="p-mypage__menu-box">
+    <ul>
+        <li class="">
+            <a href="/mypage_recruit">お仕事を探す</a>
+        </li>
+        <li class=" p-mypage__menu-box--selected ">
+            <a href="/favorite">お気に入り求人</a>
+        </li>
+        <li class=" "
+            >
+            <a href="/scout_mail">スカウトメール</a>
+        </li>
+        <li class="　">
+            <a href="/profile">プロフィール編集</a>
+        </li>
+        <li class="">
+            <a href="/worker_video">受講済講座</a>
+        </li>
+        <li class=" "
+            >
+            <a href="/chat_status">企業からの連絡</a>
+        </li>
+        <li class="">
+            <a href="/video">オンライン講座</a>
+        </li>
+        <li class="">
+            <a href="/applied">応募一覧</a>
+        </li>
+    </ul>
+</section>
+        </div>
+        <section class="p-new-recruits-sp">
+    <div class="p-new-recruits-sp__area">
+        <a href="/new_recruit" class="p-new-recruits-sp__link">
+            <img class="p-new-recruits-sp__img" src="https://mamaworks.jp/img/frontend/worker/new_recruits_link_img_sp.svg" alt="">
+        </a>
+    </div>
+    <div class="p-new-recruits-sp__contact">
+        <a href="https://mamaworks.jp/contact" class="p-new-recruits-sp__link">
+            <img class="p-new-recruits-sp__img" src="https://mamaworks.jp/img/frontend/worker/contact_link_img_sp.svg" alt="">
+        </a>
+    </div>
+</section>
+        <section class="p-mypage__box color-bg-white">
+            <h1>お気に入り求人</h1>
+                        <section class="p-mypage-favorite">
+                                    <ul>
+                        <li class="p-recruit-index__favorite-box">
+                            <a href="https://mamaworks.jp/job/11531">
+                                <p class="p-recruit-index__result-job-application-period">掲載期間：2023/02/17 〜 2023/03/31</p>
+                                <p class="p-recruit-index__result-job-type">開発エンジニア
+                                    / 契約社員</p>
+                                <p class="p-recruit-index__result-ttl">【完全在宅×自社サイトの開発エンジニア】保険の契約・顧客管理のアプリ開発☆プロジェクトの立ち上げから携われます！</p>
+                                <p class="p-recruit-index__result-name">株式会社エージェント・インシュアランス・グループ</p>
+                                <div class="p-recruit-index__result-kodawari">
+                                                                            <span>在宅ワーク</span>
+                                                                            <span>ブランクOK</span>
+                                                                            <span>未経験者歓迎</span>
+                                                                            <span>扶養内で調整可能</span>
+                                                                            <span>時間・曜日が選べる</span>
+                                                                            <span>継続案件</span>
+                                                                            <span>急なお休みも調整可能</span>
+                                                                            <span>主婦が活躍中</span>
+                                                                            <span>在宅ワーカー活用実績あり</span>
+                                                                            <span>在宅ワーカー同士の繋がりあり</span>
+                                                                            <span>スタッフとのコミュニケーションが活発</span>
+                                                                            <span>パソコン支給もしくはレンタルあり</span>
+                                                                            <span>時短勤務OK</span>
+                                                                            <span>残業なし・少なめ</span>
+                                                                            <span>週3日以内勤務</span>
+                                                                            <span>昇給・昇格あり</span>
+                                                                            <span>月収3万円以上可</span>
+                                                                            <span>月収5万円以上可</span>
+                                                                            <span>月収10万円以上可</span>
+                                                                    </div>
+                                <p class="p-recruit-index__favorite-description">エージェント・インシュアランス・グループは「お客様の利益創出に最善を尽くす」を企業理念に掲げる、日本及び米国に拠点を展開する保険代理店です。
+
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+　今回は、在宅で活躍いただける『開発エンジニア』を募集いたします！	
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝	
+
+	
+【具体的な仕事内容】
+保険の契約管理、顧客管理のアプリケーション開発を行っていただきます。
+（PC・スマホ・タブレット向けの開発となります）
+
+※現状の問題として、仕様があって対応するわけではなく
+0⇒1ベースで実現出来るか、検討の部分から携わっていただきたいと考えております。
+ぜひチャレンジしたい、一緒にプロジェクトの立ち上げからやってみたいと思う方からの応募をお待ちしております！
+
+開発メンバーには、すでに既存の在宅メンバーもおり、働きやすい環境が整っていますので、安心して業務に参画いただけます！					
+作業量は、ご相談により決定いたします。ぜひご希望をお聞かせください！
+									 
+
+＝＝＝＝＝＝★☆おすすめポイント★☆＝＝＝＝＝＝
+
+■新規プロジェクト立ち上げに携われる！■
+これまでの経験を活かし、活躍いただけるお仕事です！在宅でチームの一員としてメンバーと助け合いながら開発に取り組むことができます！新プロジェクトとして立ち上げフェーズから携わることができるので、積極的に意見や提案ができる方、成長意欲を持ってチャレンジしたい方にオススメです！業務を通して、キャリアアップに繋がります！
+
+■完全在宅のお仕事！■
+出かける準備や移動も必要ないから、ゆとりを持ってお仕事できるのが在宅ワークの魅力！あなたの貴重な時間を、ご家族との時間や自分に使いながら効率的に働けます！
+
+■長期で活躍できる！■
+家庭や自分の時間を大切にしながら長く安定して働けるお仕事です！在宅ワークでしっかり高収入が得られます！ 
+
+
+＼ 企業からのメッセージ ／						
+これまで培ったスキルを活かして、ぜひ当社で活躍しませんか♪		
+あなたからのご応募を心よりお待ちしております！</p>
+                            </a>
+                            <section class="p-recruit-index__favorite-detail-box">
+                                <a href="https://mamaworks.jp/job/11531">
+                                    <p><span>報酬</span>：時給：1,500円～3,000円
+※スキルよってご相談させていただきます。
+※試用期間として14日間勤務していただきます。	
+※残業手当（1分単位で全額支給いたします）</p>
+                                    <p>
+                                                                                    在宅
+                                                                            </p>
+                                    <p>在宅の為、全国どこでも可
+※実績あり（現在同部署で4名の方が在宅勤務（全国）をしていただいています！）</p>
+                                </a>
+                                <section class="p-recruit-index__result-fav">
+                                                                            <div class="js-store_favorite u-dsp-none">
+                                            <span>お気に入り追加</span>
+                                            <img src="https://mamaworks.jp/img/frontend/worker/icon/icon_fav2.svg" alt="">
+                                        </div>
+                                        <div class="js-delete_favorite">
+                                            <span>お気に入り削除</span>
+                                            <img src="https://mamaworks.jp/img/frontend/worker/icon/icon_fav1.svg" alt="">
+                                        </div>
+                                                                        <input class="js-ajax_recruit" name="recruit_id" type="hidden" value="11531">
+                                                                                                                        <input class="js-ajax_favorite" name="favorite_id" type="hidden" value="784727">
+                                                                                                            </section>
+                            </section>
+                        </li>
+                    </ul>
+                                    <ul>
+                        <li class="p-recruit-index__favorite-box">
+                            <a href="https://mamaworks.jp/job/12488">
+                                <p class="p-recruit-index__result-job-application-period">掲載期間：2023/02/22 〜 2024/01/31</p>
+                                <p class="p-recruit-index__result-job-type">VBAエンジニア
+                                    / 業務委託</p>
+                                <p class="p-recruit-index__result-ttl">【在宅×VBAエンジニア】Accessを活用した顧客管理システムの作成☆嬉しい時間単価1,500円（税込）！</p>
+                                <p class="p-recruit-index__result-name">不二造園土木株式会社</p>
+                                <div class="p-recruit-index__result-kodawari">
+                                                                            <span>在宅ワーク</span>
+                                                                            <span>ブランクOK</span>
+                                                                            <span>時間・曜日が選べる</span>
+                                                                            <span>継続案件</span>
+                                                                            <span>急なお休みも調整可能</span>
+                                                                            <span>スタッフとのコミュニケーションが活発</span>
+                                                                            <span>時短勤務OK</span>
+                                                                            <span>残業なし・少なめ</span>
+                                                                            <span>月収3万円以上可</span>
+                                                                            <span>月収5万円以上可</span>
+                                                                    </div>
+                                <p class="p-recruit-index__favorite-description">AccessにてVBAシステム開発の経験がある方必見！時間単価：1,500円〜（税込）の在宅ワークに挑戦してみませんか？
+
+＼こんな方にピッタリ／
+◎Accsessを活用して顧客管理システムの開発をしたことがある方
+◎自ら課題に気づき、改善方法を提案していただける方
+◎在宅でもスキルアップできる仕事をしたい方
+
+☆報酬はこれまでの経験やお持ちのスキルに応じて相談の上決定いたします。
+
+▽∴▼∴▽∴▼∴▽∴▼∴▽∴▼
+
+不二造園土木株式会社は、茨城県土浦市にある造園会社です。造園施工、公園や研究所、道路などの緑地管理、植物発生材のリサイクル（木材チップの生産）を行っている会社です。
+この度、業務効率化を推進するために顧客データの管理を見直すことになりました。顧客基本情報、ヒアリング内容、作業履歴、図面などを一元管理できればと考えています。
+
+
+【あなたにお任せしたいこと】
+……………
+Accsessを使用し、当社の顧客管理システムの作成をお願いします！
+
+現在当社ではExcelを利用して顧客管理を行っていますが、取引顧客が増えるにあたって業務が煩雑化してきているため、この度一元管理するために顧客管理システムの作成に踏み切ることになりました。
+
+そこで、VBAの開発経験があるあなたの力をお借りしたいのです。
+仕様について詳細は相談の上決定していければと考えていますが「こういったものだと管理しやすい」「これくらいの機能ならつけられそう」等、積極的なご提案をしてくださる方はなお歓迎します！
+
+Accessを使用してVBAのシステムを開発した経験が3年以上あればその他は問いません。お持ちの方スキルを活かして在宅でお仕事したい方は性別・年齢問わず大歓迎♪お気軽にご応募ください。
+
+▼在宅デビューも大歓迎
+これまで別のお仕事をされていて、在宅ワークをするのが初めて…という方も、社員が密に連携を取りながら業務を進めていければと考えております。これまで他職種で在宅ワーカーさんを多数起用してきた実績もありますので、安心してご応募ください◎
+
+▼在宅でも効率良く収入UP
+じっくり時間をかけて開発していただくために、時間単価制を採用しております。
+
+＜収入例＞
+☆1日3時間、週4日稼働した場合…
+時間単価1,500円（税込）×3時間×4日×4週
+＝月72,000円（税込）の収入に！
+
+まとまった時間が取りにくい方、昼間の時間に稼働しづらい方、お子さんが幼稚園や保育園に行っている間にお仕事をしたいママさんなどにもピッタリ。
+
+▼稼働場所は完全自由
+お仕事していただく場所は完全に自由なので、カフェや自宅など落ち着いてお仕事できる場所で取り組んでいただけます。出社の必要はございませんので、身支度の必要もありません。</p>
+                            </a>
+                            <section class="p-recruit-index__favorite-detail-box">
+                                <a href="https://mamaworks.jp/job/12488">
+                                    <p><span>報酬</span>：時間単価：1,500円（税込）</p>
+                                    <p>
+                                                                                    在宅
+                                                                            </p>
+                                    <p>自由</p>
+                                </a>
+                                <section class="p-recruit-index__result-fav">
+                                                                            <div class="js-store_favorite u-dsp-none">
+                                            <span>お気に入り追加</span>
+                                            <img src="https://mamaworks.jp/img/frontend/worker/icon/icon_fav2.svg" alt="">
+                                        </div>
+                                        <div class="js-delete_favorite">
+                                            <span>お気に入り削除</span>
+                                            <img src="https://mamaworks.jp/img/frontend/worker/icon/icon_fav1.svg" alt="">
+                                        </div>
+                                                                        <input class="js-ajax_recruit" name="recruit_id" type="hidden" value="12488">
+                                                                                                                        <input class="js-ajax_favorite" name="favorite_id" type="hidden" value="784547">
+                                                                                                            </section>
+                            </section>
+                        </li>
+                    </ul>
+                                    <ul>
+                        <li class="p-recruit-index__favorite-box">
+                            <a href="https://mamaworks.jp/job/12924">
+                                <p class="p-recruit-index__result-job-application-period">掲載期間：2023/02/01 〜 2024/01/31</p>
+                                <p class="p-recruit-index__result-job-type">RPAエンジニア
+                                    / 業務委託</p>
+                                <p class="p-recruit-index__result-ttl">【在宅×RPAエンジニア】☆業務効率化に向けてサポートするお仕事◎</p>
+                                <p class="p-recruit-index__result-name">シンクインク株式会社</p>
+                                <div class="p-recruit-index__result-kodawari">
+                                                                            <span>在宅ワーク</span>
+                                                                            <span>ブランクOK</span>
+                                                                            <span>時間・曜日が選べる</span>
+                                                                            <span>継続案件</span>
+                                                                            <span>月収3万円以上可</span>
+                                                                            <span>月収5万円以上可</span>
+                                                                            <span>月収10万円以上可</span>
+                                                                    </div>
+                                <p class="p-recruit-index__favorite-description">業務のデジタル化や様々なツールの普及が進み、コロナ禍によりテレワークが増えている中、未だに紙で管理している業務、システムへのデータ打ち込むだけの業務が、バックオフィスには残っています。
+
+「事務作業を自動化し、作業の効率化や無駄をなくす」
+RPAエンジニアとして、業務効率化に向けサポートしませんか？
+あなたの持っているスキルや知識が必要です！
+
+「こうしたらもっと良くなる！」「ここをRPA化できるのではないか」などのアイディアがありましたら、積極的にご提案してください♪
+
+＼仕事内容／
+………………
+経験を活かして活躍できる、『RPAエンジニア』のお仕事です。
+
+クライアントの課題や要望に、どうしたら問題解決が出来るのかを考え、業務改善や最善な解決方法を提案していきます。
+
+具体的に…
+・自動化できる部分を整理していく
+・最適なRPAの提案～RPAの構築を行う
+・業務フローのマニュアル作成
+・当社内担当スタッフへのレクチャー
+をお願いします。
+
+＼会社の紹介／
+…………………
+当社は、2022年に設立された、業務コンサルティングを通じてバックオフィスの働き方を変える会社です。
+バックオフィスの立ち上げ支援や各種業務フロー構築支援などの業務コンサルティング、資金繰り改善支援及び資金運用コンサルティング、Excelマクロの構築など、幅広い分野で、問題解決に向けた提案～定着していくまでを、ハンズオンで支援しています。
+
+・ワークフローシステムの構築で申請書類を電子化させ、紙の削減に貢献 
+・Excel処理をしていた業務を、基幹システムを導入することで、大幅に残業時間が削減 
+・住宅ローン相談や運用相談などのフィナンシャルプランニング 
+・業務フローを、紙管理から電子化させることで、80％以上テレワークができる体制を構築
+など、幅広い業種に対応した実績が多数あります。
+
+当社HP：https://www.think-inc.co.jp/
+
+＼このお仕事のPOINT／
+……………………………
+◎フルリモートなので、全国どこからでもチャレンジすることができます。カフェでも自宅でもどこでも、お好きな場所でOK。作業に集中して取り組めます。
+
+経験で培ってきたスキルや知識が、クライアントの抱える課題を解決し、業務効率化の実現に貢献できます。結果は目に見えて分かるので、向上心をもってお仕事ができます！</p>
+                            </a>
+                            <section class="p-recruit-index__favorite-detail-box">
+                                <a href="https://mamaworks.jp/job/12924">
+                                    <p><span>報酬</span>：月単価20～40万円（税込）
+※稼働時間として最低100時間以上を想定しております。
+※案件にもよりますが稼働率に応じ報酬の変更も多少あります</p>
+                                    <p>
+                                                                                    在宅
+                                                                            </p>
+                                    <p>自由
+基本的にはリモートワーク
+※案件によっては一部出社の可能性あり</p>
+                                </a>
+                                <section class="p-recruit-index__result-fav">
+                                                                            <div class="js-store_favorite u-dsp-none">
+                                            <span>お気に入り追加</span>
+                                            <img src="https://mamaworks.jp/img/frontend/worker/icon/icon_fav2.svg" alt="">
+                                        </div>
+                                        <div class="js-delete_favorite">
+                                            <span>お気に入り削除</span>
+                                            <img src="https://mamaworks.jp/img/frontend/worker/icon/icon_fav1.svg" alt="">
+                                        </div>
+                                                                        <input class="js-ajax_recruit" name="recruit_id" type="hidden" value="12924">
+                                                                                                                        <input class="js-ajax_favorite" name="favorite_id" type="hidden" value="784741">
+                                                                                                            </section>
+                            </section>
+                        </li>
+                    </ul>
+                                    <ul>
+                        <li class="p-recruit-index__favorite-box">
+                            <a href="https://mamaworks.jp/job/13197">
+                                <p class="p-recruit-index__result-job-application-period">掲載期間：2023/01/25 〜 2024/01/31</p>
+                                <p class="p-recruit-index__result-job-type">Webエンジニア
+                                    / 業務委託</p>
+                                <p class="p-recruit-index__result-ttl">【完全在宅×Webエンジニア】工程管理S構築・SaaS型サービスの開発など｜経験を武器に活躍できる高報酬のお仕事☆</p>
+                                <p class="p-recruit-index__result-name">株式会社デジタルブロックス</p>
+                                <div class="p-recruit-index__result-kodawari">
+                                                                            <span>在宅ワーク</span>
+                                                                            <span>扶養内で調整可能</span>
+                                                                            <span>時間・曜日が選べる</span>
+                                                                            <span>継続案件</span>
+                                                                            <span>急なお休みも調整可能</span>
+                                                                            <span>主婦が活躍中</span>
+                                                                            <span>在宅ワーカー活用実績あり</span>
+                                                                            <span>スタッフとのコミュニケーションが活発</span>
+                                                                            <span>時短勤務OK</span>
+                                                                            <span>残業なし・少なめ</span>
+                                                                            <span>週3日以内勤務</span>
+                                                                            <span>月収3万円以上可</span>
+                                                                            <span>月収5万円以上可</span>
+                                                                            <span>月収10万円以上可</span>
+                                                                    </div>
+                                <p class="p-recruit-index__favorite-description">弊社は、自社内での受託開発（システム開発、インフラ構築）を行っている会社です。
+
+この度、事業拡大に伴い「Webエンジニア」として業務をお任せできる方を募集します。
+※今回は受託開発の案件をお願いするため、業務時間については柔軟に対応させていただきます♪
+
+【業務内容】
+１：解体業向け工程管理S構築案件
+解体業における業務効率の向上と、アナログイメージを払拭するために当案件を依頼されています。
+
+２：自社SaaSサービス　営業支援ツール(SFA)　機能開発
+弊社自社サービスでのWeb scrapingを用いたSaaS型サービスの開発案件です。
+
+上記、１、２において設計・製造・試験のいずれかの作業をお任せします。
+＊全部の工程ができなくても、部分的に作業ができる方をお待ちしております！（プログラミング、基本設計、詳細設計）
+
+＼　こんな方を求めています　／
+・Web開発経験が２年以上ある方
+・SpringBoot、React の実装経験が２年以上ある方
+・JavaScriptの実装経験が２年以上ある方
+・DB（Oracle、MySql、PostgreSQLなど）での実務経験が２年以上ある方
+
+今まで培ってきた経験を、ぜひ当社で活かしてみませんか？
+経験・知識を武器に積極的に提案をしながら業務を進められるので、やりがいを感じながら働けます。
+経験・スキルに合わせて幅広いお仕事をお任せするので、さらなるスキルアップも可能です。
+経験を活かしてやりがいのある仕事に挑戦したい方、スキルをもっと磨いていきたい方にピッタリなお仕事です！
+
+＜ポイント①完全在宅で働ける＞
+業務は完全在宅なので、ご自宅などお好きな場所でお仕事OK。
+小さいお子さんのいるママさんや、家事と両立しながら働きたい主婦の方にも働きやすい環境です。
+業務時間はあなたの希望・都合に合わせて柔軟に調整が可能です。「◯時から業務をスタートしたい」「◯〜◯時の間で」など、あなたのライフスタイルに合わせた働き方で活躍できます！
+
+＜ポイント②スキルを活かせる高報酬のお仕事＞
+時間単価2000～2500円（税込）の高報酬なので、スキルを武器に在宅で安定収入を得ることができます。
+また、働く場所にとらわれない在宅ワークなら、家族の転勤など急な引っ越しに左右されることなく、長期で活躍可能です。
+
+理想の働き方であなたのキャリアを築きませんか？
+あなたの経験・スキルを存分に発揮できる環境をご用意してお待ちしています。</p>
+                            </a>
+                            <section class="p-recruit-index__favorite-detail-box">
+                                <a href="https://mamaworks.jp/job/13197">
+                                    <p><span>報酬</span>：時間単価：2000円～2500円（税込）
+＊スキルや経験によって決定いたします</p>
+                                    <p>
+                                                                                    在宅
+                                                                            </p>
+                                    <p>自由</p>
+                                </a>
+                                <section class="p-recruit-index__result-fav">
+                                                                            <div class="js-store_favorite u-dsp-none">
+                                            <span>お気に入り追加</span>
+                                            <img src="https://mamaworks.jp/img/frontend/worker/icon/icon_fav2.svg" alt="">
+                                        </div>
+                                        <div class="js-delete_favorite">
+                                            <span>お気に入り削除</span>
+                                            <img src="https://mamaworks.jp/img/frontend/worker/icon/icon_fav1.svg" alt="">
+                                        </div>
+                                                                        <input class="js-ajax_recruit" name="recruit_id" type="hidden" value="13197">
+                                                                                                                        <input class="js-ajax_favorite" name="favorite_id" type="hidden" value="784558">
+                                                                                                            </section>
+                            </section>
+                        </li>
+                    </ul>
+                                    <ul>
+                        <li class="p-recruit-index__favorite-box">
+                            <a href="https://mamaworks.jp/job/13198">
+                                <p class="p-recruit-index__result-job-application-period">掲載期間：2023/01/25 〜 2024/01/31</p>
+                                <p class="p-recruit-index__result-job-type">インフラエンジニア
+                                    / 業務委託</p>
+                                <p class="p-recruit-index__result-ttl">【在宅インフラエンジニア募集】ITシステムの設計～構築～テストなど経験に応じて業務をお任せします｜主婦・ママ歓迎☆</p>
+                                <p class="p-recruit-index__result-name">株式会社デジタルブロックス</p>
+                                <div class="p-recruit-index__result-kodawari">
+                                                                            <span>在宅ワーク</span>
+                                                                            <span>扶養内で調整可能</span>
+                                                                            <span>時間・曜日が選べる</span>
+                                                                            <span>継続案件</span>
+                                                                            <span>急なお休みも調整可能</span>
+                                                                            <span>主婦が活躍中</span>
+                                                                            <span>在宅ワーカー活用実績あり</span>
+                                                                            <span>スタッフとのコミュニケーションが活発</span>
+                                                                            <span>時短勤務OK</span>
+                                                                            <span>残業なし・少なめ</span>
+                                                                            <span>週3日以内勤務</span>
+                                                                            <span>月収3万円以上可</span>
+                                                                            <span>月収5万円以上可</span>
+                                                                            <span>月収10万円以上可</span>
+                                                                    </div>
+                                <p class="p-recruit-index__favorite-description">弊社は、自社内での受託開発（システム開発、インフラ構築）業務を行っている会社です。
+
+この度、事業拡大に伴い、「インフラエンジニア」として業務をお任せできる方を募集します。
+※今回は受託開発の案件をお願いするため、業務時間については柔軟に対応させていただきます♪
+
+【仕事内容】
+ネットワーク機器、サーバ、ストレージ、ミドルウェアなどの製品群から構成されるITシステムの基本テスター、設計～構築～テストをお願いします。
+
+＜具体的には…＞
+・ミドルウェアなどのパッケージ商品の設計・構築
+・クラウド(AWS/Azure)のデザイン・設計・構築
+・Linuxサーバ、Windowsサーバ設計・構築
+・キッティング　など
+
+＊他のシステム系のお仕事もありますので、スキルや適性に合わせたお仕事をお任せする予定です。
+まずはオンライン面接時に、今までの経験や得意分野などについてお話をさせてください。
+
+＜　この求人のポイント　＞
+●完全在宅で働ける
+「居住エリアには経験を活かせる仕事がなくて…」「家族が転勤族だから…」「子供がまだ小さいから…」とキャリアを諦めていた方も、在宅ワークで活躍してみませんか？
+業務時間も柔軟に調整できるので、ママ・主婦ワーカーも活躍しやすい環境です。
+スキルがあるからこそ活躍できる在宅ワークで、あなたの理想の働き方を叶えてください！
+
+●経験・スキルを活かせる
+スキル・適性に合わせて業務をお任せするので、あなたの強みを活かして働けます。様々な案件に携われるので、エンジニアとしてさらなるスキルアップを目指すことも可能です。「やりがいのある仕事に挑戦したい」「経験を積んでスキルを磨いていきたい」という方にピッタリなお仕事です。
+
+●時間単価2000〜2500円（税込）の高報酬！スキルを存分に発揮して、在宅ワークで安定した収入を得られます。業務量は相談しながら決めていきますので、「週に○時間以内で働きたい」など、まずは面接時にあなたの希望の働き方をお聞かせください。
+
+当社ではすでに他業務で在宅ワーカーが多数活躍中です。
+在宅ワーク未経験の方も、挑戦しやすい環境を整えていますのでご安心ください。
+あなたからのご応募をお待ちしております！</p>
+                            </a>
+                            <section class="p-recruit-index__favorite-detail-box">
+                                <a href="https://mamaworks.jp/job/13198">
+                                    <p><span>報酬</span>：時間単価：2000円～2500円（税込）
+＊スキルや経験によって決定いたします</p>
+                                    <p>
+                                                                                    在宅
+                                                                            </p>
+                                    <p>自由</p>
+                                </a>
+                                <section class="p-recruit-index__result-fav">
+                                                                            <div class="js-store_favorite u-dsp-none">
+                                            <span>お気に入り追加</span>
+                                            <img src="https://mamaworks.jp/img/frontend/worker/icon/icon_fav2.svg" alt="">
+                                        </div>
+                                        <div class="js-delete_favorite">
+                                            <span>お気に入り削除</span>
+                                            <img src="https://mamaworks.jp/img/frontend/worker/icon/icon_fav1.svg" alt="">
+                                        </div>
+                                                                        <input class="js-ajax_recruit" name="recruit_id" type="hidden" value="13198">
+                                                                                                                        <input class="js-ajax_favorite" name="favorite_id" type="hidden" value="784557">
+                                                                                                            </section>
+                            </section>
+                        </li>
+                    </ul>
+                                    <ul>
+                        <li class="p-recruit-index__favorite-box">
+                            <a href="https://mamaworks.jp/job/13252">
+                                <p class="p-recruit-index__result-job-application-period">掲載期間：2023/01/26 〜 2024/01/31</p>
+                                <p class="p-recruit-index__result-job-type">WEBプログラマー
+                                    / 業務委託</p>
+                                <p class="p-recruit-index__result-ttl">【＊完全在宅×WEBプログラマー＊】高報酬がうれしい！WEBプログラマーとして活躍しませんか？◆年齢＆性別不問！</p>
+                                <p class="p-recruit-index__result-name">マルチスタイル株式会社</p>
+                                <div class="p-recruit-index__result-kodawari">
+                                                                            <span>在宅ワーク</span>
+                                                                            <span>時間・曜日が選べる</span>
+                                                                            <span>継続案件</span>
+                                                                            <span>在宅ワーカー活用実績あり</span>
+                                                                    </div>
+                                <p class="p-recruit-index__favorite-description">～ビジネス活性化のベストサポートを目指して！～
+当社は事業展開コンサルティングや補助金・助成金申請コンサルティング、人材育成・研修事業などを手がけている会社です。
+
+私たちは『経営課題』『集客課題』『業務課題』『IT課題』あらゆる問題解決に頼れるベストパートナーとして「マルチスタイルに頼んで良かった」を追求します。
+
+今回、当社では「WEBプログラマー」として活躍してくださる方を募集いたします！
+現在当社では、ありがたいことに多くのご依頼をいただいています。
+嬉しい反面、社内のメンバーだけでは全てのご依頼に対応できない状況です。
+より多くのご依頼に応え、当社がさらなる発展をつづけていくためにも、ぜひあなたの力を貸してください！
+
+★こんなことをお任せします★
+■WEBプログラマー
+・wordpressのフル改造
+・スクラッチ開発
+
+▼具体的には
+■クライアントのWeb制作
+■個人HP制作、LP制作
+■コーポレートサイト制作・イベントの特設サイト・ECサイト構築など
+上記業務の開発、プログラミング、テストをお願いいたします。
+
+＞＞作業内容についての詳細は当社のスタッフからお伝えいたします。
+分からないことや不安なことは、気軽に聞いてくださいね！
+これまでのご経験、ご自身のスキルをいかんなく発揮していただけます！
+
+≪当社のデザインの一例≫
+https://web.multistyle.co.jp/workslist/
+
+★こんな方におススメ★
+◆プログラマー経験者（PHPの実務経験３年以上）
+◆在宅ワークを探している方
+◆プログラマーとして、さらに成長したい方
+◆積極的に提案しながら働いていくださる方
+
+
+★POINT★高報酬が嬉しい！
+あなたにスキルをしっかり発揮してほしいから、【案件単価制】時間単価換算：2,000円（税込）の高報酬をご用意♪
+＼さらに！／
+完全在宅ワーク！
+おうちやカフェなど、あなたの好きな場所で、好きな時間に働けます。
+経験を活かして、しっかり稼げる在宅ワーク、始めてみませんか？</p>
+                            </a>
+                            <section class="p-recruit-index__favorite-detail-box">
+                                <a href="https://mamaworks.jp/job/13252">
+                                    <p><span>報酬</span>：案件単価：2,000円（税込）</p>
+                                    <p>
+                                                                                    在宅
+                                                                            </p>
+                                    <p>自由</p>
+                                </a>
+                                <section class="p-recruit-index__result-fav">
+                                                                            <div class="js-store_favorite u-dsp-none">
+                                            <span>お気に入り追加</span>
+                                            <img src="https://mamaworks.jp/img/frontend/worker/icon/icon_fav2.svg" alt="">
+                                        </div>
+                                        <div class="js-delete_favorite">
+                                            <span>お気に入り削除</span>
+                                            <img src="https://mamaworks.jp/img/frontend/worker/icon/icon_fav1.svg" alt="">
+                                        </div>
+                                                                        <input class="js-ajax_recruit" name="recruit_id" type="hidden" value="13252">
+                                                                                                                        <input class="js-ajax_favorite" name="favorite_id" type="hidden" value="784555">
+                                                                                                            </section>
+                            </section>
+                        </li>
+                    </ul>
+                                    <ul>
+                        <li class="p-recruit-index__favorite-box">
+                            <a href="https://mamaworks.jp/job/13680">
+                                <p class="p-recruit-index__result-job-application-period">掲載期間：2023/02/16 〜 2024/02/29</p>
+                                <p class="p-recruit-index__result-job-type">フロントエンドエンジニア
+                                    / 業務委託</p>
+                                <p class="p-recruit-index__result-ttl">【在宅フロントエンジニア】システム構築やスーパーマーケットの基幹システム開発をお任せ！高単価★時間単価2500円～◎</p>
+                                <p class="p-recruit-index__result-name">株式会社 エイバンサット</p>
+                                <div class="p-recruit-index__result-kodawari">
+                                                                            <span>在宅ワーク</span>
+                                                                            <span>ブランクOK</span>
+                                                                            <span>時間・曜日が選べる</span>
+                                                                            <span>継続案件</span>
+                                                                            <span>在宅ワーカー活用実績あり</span>
+                                                                            <span>時短勤務OK</span>
+                                                                            <span>残業なし・少なめ</span>
+                                                                            <span>月収3万円以上可</span>
+                                                                            <span>月収5万円以上可</span>
+                                                                            <span>月収10万円以上可</span>
+                                                                    </div>
+                                <p class="p-recruit-index__favorite-description">当社は、日本におけるコンサルティングパートナーです。お客様のご要望に沿ったシステムのご提案からシステム開発までをトータルサポートしています。プロパイダ向けの顧客情報入力システムの開発や大学向けのWebベースのグループウェア開発、メーカー向けのWebベース部品情報管理システムの開発など開発事例は多数あります。
+
+今回、社内体制強化のため「フロントエンドエンジニア」として活躍していただく在宅ワーカーさんを募集します！
+
+〇おススメPOINT
+---------------------------
+★好きな時間に無理なく働ける！
+→作業する時間は完全に自由！納期に合わせご自身でスケジュール管理をしながらお仕事を進めてください。
+★全国どこからでも挑戦可能！
+→出社ゼロの完全リモートだから、ご自身がリラックスできる環境で作業に取り組めます。
+
+〇仕事内容
+-------------------
+■フロントエンドエンジニア
+「システム構築」・「スーパーマーケットの基幹システム開発」のフロントエンド開発業務をお願い致します。
+
+あなたの知識やスキルが、業務効率化や問題解決へと導きます。在宅ワーカーとしてスキルをしっかり活かせキャリアも積めます◎次のステップで在宅ワーカーとして活躍しませんか？
+
+▽必須スキル
+JavaScriptの実装経験
+▽歓迎スキル
+Oracle・VB.NETの実務経験
+
+＼在宅ワークデビュー＆ブランクがある方も歓迎／
+「JavaScriptの実装経験がある方」ぜひ当社でそのスキルを活かしませんか？ブランクがある方も歓迎。育児や介護などさまざまなご事情で仕事を離れ、再スタートを考えている方も歓迎！しっかりサポートいたしますのでご安心ください。
+
+＼高報酬×長期！空いている時間を使って賢く稼ぐ／
+時間単価2,500円～3,000円(税込)と高報酬。育児や家事・本業の合間など限られた時間の中でも空いている時間を有効活用して安定した収入を得られます◎
+
+＼育児や家事と両立しながら無理なく続けられる／
+ご家族や自身の時間を優先しながらお仕事できるのは在宅ワークならではの魅力です。お子さんの送迎後や家事の合間、スキマ時間を見つけ自分のペースでコツコツとお仕事が出来るので、今までの生活リズムを崩すことなくお仕事が出来ます。</p>
+                            </a>
+                            <section class="p-recruit-index__favorite-detail-box">
+                                <a href="https://mamaworks.jp/job/13680">
+                                    <p><span>報酬</span>：時間単価：2,500円～3,000円(税込)</p>
+                                    <p>
+                                                                                    在宅
+                                                                            </p>
+                                    <p>自由</p>
+                                </a>
+                                <section class="p-recruit-index__result-fav">
+                                                                            <div class="js-store_favorite u-dsp-none">
+                                            <span>お気に入り追加</span>
+                                            <img src="https://mamaworks.jp/img/frontend/worker/icon/icon_fav2.svg" alt="">
+                                        </div>
+                                        <div class="js-delete_favorite">
+                                            <span>お気に入り削除</span>
+                                            <img src="https://mamaworks.jp/img/frontend/worker/icon/icon_fav1.svg" alt="">
+                                        </div>
+                                                                        <input class="js-ajax_recruit" name="recruit_id" type="hidden" value="13680">
+                                                                                                                        <input class="js-ajax_favorite" name="favorite_id" type="hidden" value="784549">
+                                                                                                            </section>
+                            </section>
+                        </li>
+                    </ul>
+                                    <ul>
+                        <li class="p-recruit-index__favorite-box">
+                            <a href="https://mamaworks.jp/job/13681">
+                                <p class="p-recruit-index__result-job-application-period">掲載期間：2023/02/16 〜 2024/02/29</p>
+                                <p class="p-recruit-index__result-job-type">システムエンジニア
+                                    / 業務委託</p>
+                                <p class="p-recruit-index__result-ttl">★高報酬★『システムエンジニア』としてクライアントのシステム開発を担当！【完全在宅】で自由な働き方を実現できます！</p>
+                                <p class="p-recruit-index__result-name">株式会社 エイバンサット</p>
+                                <div class="p-recruit-index__result-kodawari">
+                                                                            <span>在宅ワーク</span>
+                                                                            <span>ブランクOK</span>
+                                                                            <span>時間・曜日が選べる</span>
+                                                                            <span>継続案件</span>
+                                                                            <span>在宅ワーカー活用実績あり</span>
+                                                                            <span>時短勤務OK</span>
+                                                                            <span>残業なし・少なめ</span>
+                                                                            <span>月収3万円以上可</span>
+                                                                            <span>月収5万円以上可</span>
+                                                                            <span>月収10万円以上可</span>
+                                                                    </div>
+                                <p class="p-recruit-index__favorite-description">／
+あなたの強みを活かせる！
+柔軟な働き方で自分らしくお仕事しませんか？
+＼
+受託開発の案件の強化をしていくため、『システムエンジニア』として活躍していただく在宅ワーカーさんを募集します！
+
+＜こんな方におススメです♪＞
+＊リモートワークを始めたい！続けたい！
+＊自身のスキルを活かしながら、経験を積みたい！
+＊自由な働き方でプライベートの時間も大切にしたい！
+-------------------
+▼会社紹介
+当社は、日本におけるコンサルティングパートナーです。お客様のご要望に沿ったシステムのご提案からシステム開発までをトータルサポートしています。プロパイダ向けの顧客情報入力システムの開発や大学向けのWebベースのグループウェア開発、メーカー向けのWebベース部品情報管理システムの開発など開発事例は多数あります。
+-------------------
+▼仕事内容
+「システムエンジニア」として、クライアントから依頼されたシステム開発のお手伝をしていただきます。
+
+&lt;こんなスキルや経験者を必要としています！&gt;
+◎JAVAの活用経験
+◎製造業でのシステム開発経験
+
+「自分でも戦力になれるかな…」と不安がある方もご安心を。安心して業務に取り組めるようしっかりサポートいたしますので何でもご相談ください。
+
+「こうしたら良い」など、あなたの思うことをどんどん発信してください◎あなたのスキルや知識がクライアントの課題解決へと繋がります！
+
+＼おススメPOINT／
+◎出社ゼロ。毎朝の満員電車のストレスなし！完全リモートのお仕事です。
+作業する場所に縛りはありません。お好きな場所で業務に取り組めるので、自分のペースでモクモクと作業ができます。リモートワークだからこそ全国どこからでもチャレンジできるので「住居エリアにスキルを活かせる場所がない」と諦めていた方も活躍できます！
+
+◎スケジュール調整しながら柔軟な働き方を実現できます。
+納期に間に合えば、お好きな時間に＆無理のない業務時間で自由に働けます！お子さんが学校に行っている間の数時間～でもOK！仕事量をコントロールでき、ワークライフバランスを保ちながら自分らしい働き方が可能です。</p>
+                            </a>
+                            <section class="p-recruit-index__favorite-detail-box">
+                                <a href="https://mamaworks.jp/job/13681">
+                                    <p><span>報酬</span>：時間単価：2,500円～3,000円(税込)</p>
+                                    <p>
+                                                                                    在宅
+                                                                            </p>
+                                    <p>自由</p>
+                                </a>
+                                <section class="p-recruit-index__result-fav">
+                                                                            <div class="js-store_favorite u-dsp-none">
+                                            <span>お気に入り追加</span>
+                                            <img src="https://mamaworks.jp/img/frontend/worker/icon/icon_fav2.svg" alt="">
+                                        </div>
+                                        <div class="js-delete_favorite">
+                                            <span>お気に入り削除</span>
+                                            <img src="https://mamaworks.jp/img/frontend/worker/icon/icon_fav1.svg" alt="">
+                                        </div>
+                                                                        <input class="js-ajax_recruit" name="recruit_id" type="hidden" value="13681">
+                                                                                                                        <input class="js-ajax_favorite" name="favorite_id" type="hidden" value="784550">
+                                                                                                            </section>
+                            </section>
+                        </li>
+                    </ul>
+                                    <ul>
+                        <li class="p-recruit-index__favorite-box">
+                            <a href="https://mamaworks.jp/job/13683">
+                                <p class="p-recruit-index__result-job-application-period">掲載期間：2023/02/17 〜 2024/02/29</p>
+                                <p class="p-recruit-index__result-job-type">RPAエンジニア
+                                    / 業務委託</p>
+                                <p class="p-recruit-index__result-ttl">【完全在宅×RPAエンジニア】業務整理～RPA構築、マニュアル作成、レクチャーまで幅広くお任せ！スキルUPが目指せます★</p>
+                                <p class="p-recruit-index__result-name">ガイズカンパニー株式会社</p>
+                                <div class="p-recruit-index__result-kodawari">
+                                                                            <span>在宅ワーク</span>
+                                                                            <span>継続案件</span>
+                                                                            <span>スタッフとのコミュニケーションが活発</span>
+                                                                            <span>月収3万円以上可</span>
+                                                                            <span>月収5万円以上可</span>
+                                                                            <span>月収10万円以上可</span>
+                                                                    </div>
+                                <p class="p-recruit-index__favorite-description">◎案件があった時にご依頼させていただきます♪
+＼　RPAの提案・構築をお任せできる『RPAエンジニア』募集！　／
+
+社内業務の効率化のため、RPAの改良を行っていただくRPAエンジニアを募集します。
+
+業務整理から構築・マニュアル作成・レクチャーまで、一貫してお任せできる方をお待ちしています！経験や知識のある方にアドバイスやご提案をいただきながら、業務フローが簡易化するような仕組みづくりを一緒に進めていきたいと考えています。
+
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+【 募集内容 】
+■RPAエンジニア
+現在使っているRPAの改良をお任せいたします。
+まずは当社の業務の中から自動化できる部分を整理していただき、課題抽出や改善策の提案、RPA化の構築を行っていただきます。
+業務を行う上で、より効率的なアイデアがありましたらぜひ積極的にご提案ください！
+
+《具体的には…》
+・最適なRPAの提案
+・RPAの構築
+・業務フローのマニュアル作成
+・当社担当スタッフへのレクチャー　など
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+
+【 このお仕事の魅力 】
+
+▷▷場所＆時間自由！
+完全在宅で場所や時間に縛られずにお仕事が可能◎
+移動や身支度の時間を気にすることなく、好きな場所で効率よく働けるフルリモートワークです！曜日ごとに業務時間を変えるなどライフスタイルに合わせて働けるので、副業としてはじめたい方にもおすすめです。
+
+▷▷スキル・経験を発揮できる！
+あなたのアイデアや提案を積極的に取り入れて、さらなる業務の効率化を図れるRPAに改良したいと考えています。これまで培ってきたエンジニアとしての経験、RPAの知識を存分に発揮してご活躍ください！業務マニュアルの作成や運用の落とし込みなどの経験がある方は大歓迎です☆
+
+▷▷安心の時間単価制！
+稼働した分、しっかりと収入につながる時間単価制のお仕事です♪
+「在宅ワークでも安定収入を目指したい」「頑張りが報酬にも反映されてほしい！モチベーション高く働きたい！」そんな方にぴったりです◎
+
+【 ガイズカンパニーについて 】
+
+住宅の外壁を作り続けて30年。
+延べ三万棟以上の住宅に関わってきました。
+
+日本の住宅における外装の役割は重要です。夏の気温は40度を超え、冬は豪雪に悩まされることもあります。
+時には湿気に悩まされ、台風や地震などの災害も多く発生します。
+私たち外装工事のパーソナルトレーナーたちは、長年にわたる経験と知識の積み重ねにより、携わった全ての住宅に住む方々の健康や幸せを守り続けています。</p>
+                            </a>
+                            <section class="p-recruit-index__favorite-detail-box">
+                                <a href="https://mamaworks.jp/job/13683">
+                                    <p><span>報酬</span>：時間単価1500円（税込）</p>
+                                    <p>
+                                                                                    在宅
+                                                                            </p>
+                                    <p>自由</p>
+                                </a>
+                                <section class="p-recruit-index__result-fav">
+                                                                            <div class="js-store_favorite u-dsp-none">
+                                            <span>お気に入り追加</span>
+                                            <img src="https://mamaworks.jp/img/frontend/worker/icon/icon_fav2.svg" alt="">
+                                        </div>
+                                        <div class="js-delete_favorite">
+                                            <span>お気に入り削除</span>
+                                            <img src="https://mamaworks.jp/img/frontend/worker/icon/icon_fav1.svg" alt="">
+                                        </div>
+                                                                        <input class="js-ajax_recruit" name="recruit_id" type="hidden" value="13683">
+                                                                                                                        <input class="js-ajax_favorite" name="favorite_id" type="hidden" value="784543">
+                                                                                                            </section>
+                            </section>
+                        </li>
+                    </ul>
+                                    <ul>
+                        <li class="p-recruit-index__favorite-box">
+                            <a href="https://mamaworks.jp/job/13726">
+                                <p class="p-recruit-index__result-job-application-period">掲載期間：2023/02/21 〜 2023/03/31</p>
+                                <p class="p-recruit-index__result-job-type">メディアライター兼アナリスト
+                                    / 業務委託</p>
+                                <p class="p-recruit-index__result-ttl">【データ分析×英語活用】グローバルマーケットの情報の収集・レポート作成のお仕事です！</p>
+                                <p class="p-recruit-index__result-name">株式会社市場分析研究所</p>
+                                <div class="p-recruit-index__result-kodawari">
+                                                                            <span>時間・曜日が選べる</span>
+                                                                            <span>継続案件</span>
+                                                                            <span>急なお休みも調整可能</span>
+                                                                            <span>月収5万円以上可</span>
+                                                                    </div>
+                                <p class="p-recruit-index__favorite-description">株式会社市場分析研究所は、「ディールラボ」という330以上の業界別市場シェア、2000社以上の将来のM＆A対象となる会社リストなどをまとめたデータベースの運営を行っている会社です。
+
+グローバル規模での市場規模情報を集計し、適切な頻度で更新を行うことで多方面から評価頂いており、2022年1月以降、累計280万PVを達成しているサイトとなりました。直近では各種メディアへの利用も実施されております。
+
+今回は、「ディールラボ」内の記事作成、データ更新をお任せできる方を募集いたします！
+
+
+【具体的な業務内容】
+１）記事の作成（日本語）
+２）記事作成に必要なデータの収集・分析（WEB上より収集）
+３）各データの整合性チェック
+４）既存データの更新業務
+
+その他上記業務に付随する業務を実施したくことがございます。
+
+記事作成にあたっての対象業界やテーマは用意させて頂き、そのテーマに従って記事を作成していただく形となります。不明点などございましたら確認できるサポート体制がございますので、ご安心ください！
+
+
+【業務のポイント】
+・フルリモートかつ時間制限がないため、ご自身のライフスタイルに合わせて業務が可能！
+・長期でのお仕事が可能！専門領域となるため、長期でのお仕事頂ける方を募集しています。
+・英語を活かせる！　情報ソースの殆どが英語となるため、ご自身のスキルを活かせます！</p>
+                            </a>
+                            <section class="p-recruit-index__favorite-detail-box">
+                                <a href="https://mamaworks.jp/job/13726">
+                                    <p><span>報酬</span>：単価報酬：5,000円（税込）/記事</p>
+                                    <p>
+                                                                                    在宅
+                                                                            </p>
+                                    <p>自由</p>
+                                </a>
+                                <section class="p-recruit-index__result-fav">
+                                                                            <div class="js-store_favorite u-dsp-none">
+                                            <span>お気に入り追加</span>
+                                            <img src="https://mamaworks.jp/img/frontend/worker/icon/icon_fav2.svg" alt="">
+                                        </div>
+                                        <div class="js-delete_favorite">
+                                            <span>お気に入り削除</span>
+                                            <img src="https://mamaworks.jp/img/frontend/worker/icon/icon_fav1.svg" alt="">
+                                        </div>
+                                                                        <input class="js-ajax_recruit" name="recruit_id" type="hidden" value="13726">
+                                                                                                                        <input class="js-ajax_favorite" name="favorite_id" type="hidden" value="784554">
+                                                                                                            </section>
+                            </section>
+                        </li>
+                    </ul>
+                            </section>
+        </section>
+    </article>
+    </div>
+    
+    
+    <footer class="footer-content">
+  <div class="footer-content__box">
+    <div class="footer-content__box-up">
+      <ul class="footer-content__box-up__menu">
+        <li>
+          <a href="https://www.aidma-hd.jp/privacy/" target="_blank">
+            <span>プライバシーポリシー</span>
+          </a>
+        </li>
+        <li>
+          <a href=/terms>
+            <span>利用規約</span>
+          </a>
+        </li>
+        <li>
+          <a href="contact">
+            <span>お問い合わせ</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.aidma-hd.jp/profile/">
+            <span>運営会社</span>
+          </a>
+        </li>
+      </ul>
+    </div>
+    <div class="footer-content__box-down">
+      <p>株式会社アイドマ・ホールディングス</p>
+      <p>〒171-0022</p>
+      <p>東京都豊島区南池袋2-25-5 藤久ビル東5号館 4F</p>
+    </div>
+  </div>
+  <div class="footer-content__copyright -worker">
+    <p>Copyright Aidma Holdings Inc. All Rights Reserved.</p>
+  </div>
+</footer>  </main>
+  <script src="https://mamaworks.jp/js/worker.js"></script>
+  <!-- Load Facebook SDK for JavaScript -->
+  <div id="fb-root"></div>
+  <div id="fb-root"></div>
+  <img class="c-scroll-up -worker" src="https://mamaworks.jp/img/frontend/common/scroll_up-circle.svg" alt="">
+  <script async defer crossorigin="anonymous" src="https://connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v6.0&appId=2615117045165990&autoLogAppEvents=1"></script>
+  <script src="https://yubinbango.github.io/yubinbango/yubinbango.js" charset="UTF-8"></script>
+    <script src="https://cdn.jsdelivr.net/npm/lazyload@2.0.0-rc.2/lazyload.min.js"></script>
+  <script>
+    lazyload();
+  </script>
+  <script type="text/javascript">
+    piAId = '709823';
+    piCId = '22875';
+    piHostname = 'pi.pardot.com';
+
+    (function() {
+      function async_load() {
+        var s = document.createElement('script');
+        s.type = 'text/javascript';
+        s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
+        var c = document.getElementsByTagName('script')[0];
+        c.parentNode.insertBefore(s, c);
+      }
+      if (window.attachEvent) {
+        window.attachEvent('onload', async_load);
+      } else {
+        window.addEventListener('load', async_load, false);
+      }
+    })();
+  </script>
+</body>
+
+</html>

@@ -1,0 +1,56 @@
+--- 1 ---
+<li class="p-recruit-index__result-box">
+<a href="https://mamaworks.jp/job/13855" style="    padding-bottom: 0px;">
+<div class="p-recruit-index__result-job-head">
+<p class="p-recruit-index__result-job-application-period">掲載期間：2023/03/01 ? 2026/03/31</p>
+<p class="p-recruit-index__result-job-application-elapsed">
+<span class="p-recruit__elapsed-date">
+0
+日前
+</span>                            </p>
+</div>
+<p class="p-recruit-index__result-job-type">社内システム管理
+/ 業務委託</p>
+<h2 class="p-recruit-index__result-ttl">【完全在宅】業務時間自由☆社内システム管理者を募集！働きやすい環境づくりを心がけています！</h2>
+<p class="p-recruit-index__result-name">カヴァースジャパン株式会社</p>
+<p class="p-recruit-index__result-description">弊社では家具のネット通販サイトを運営しています。この度、弊社の社内システム管理業務をしていただける方を募集します！
+
+---------------------------------------------------------
+【主な業務内容】
+・社内システムの開発・管理、セキュリティ維持など
+・業務効率化のためのツール導入など
+
+ECサイトや社内システムに関わるお仕事をお願いしたいと考えています。
+---------------------------------------------------------
+
+継続的にお願いをさせていただくことを前提に考えておりますため、長く働いていただける環境づくりに心がけています。ご自宅など好きな場所で好きな時間にお仕事が出来ますよ！！
+
+今までの経験やスキルを活かして働きたい方、インテリアが好きな方！ご応募・ご相談をお待ちしております。</p>
+</a>
+<section class="p-recruit-index__result-detail-box">
+<a href="https://mamaworks.jp/job/13855">
+<p><span>報酬</span>：時間単価1000円（税込）～
+※研修期間が2ヶ月ございます。研修期間中は時間単価900円（税込）になります。</p>
+<p>
+在宅
+</p>
+<p>完全在宅のためご自宅など自由</p>
+</a>
+<section class="p-recruit-index__result-fav">
+<div class="js-store_favorite p-recruit-index__fav-box">
+<span>お気に入り追加</span>
+<img src="https://mamaworks.jp/img/frontend/worker/icon/icon_fav2.svg" alt="">
+</div>
+<div class="js-delete_favorite u-dsp-none p-recruit-index__fav-box">
+<span>お気に入り削除</span>
+<img src="https://mamaworks.jp/img/frontend/worker/icon/icon_fav1.svg" alt="">
+</div>
+<input class="js-ajax_recruit" name="recruit_id" type="hidden" value="13855">
+<input class="js-ajax_favorite" name="favorite_id" type="hidden">
+</section>
+</section>
+<input name="recruit_id" type="hidden" value="13855">
+<input name="client_id" type="hidden" value="431">
+</form>
+</li>
+
