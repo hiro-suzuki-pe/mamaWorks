@@ -30,6 +30,7 @@ def getDetail(url):
     global items
     detail = {item: "(no info)" for item in items}
     detail['Id'] = url.replace('https://mamaworks.jp/job/', '')
+    detail['url'] = url
     company_name = sp.select_one('div.p-recruit-show__text > h2')
     try:
         detail['会社名'] = company_name.text
@@ -37,7 +38,8 @@ def getDetail(url):
         return detail
     heading = sp.select_one('div.p-recruit-show__text > h1')
     detail['見出し'] = heading.text
-    detail['削除フラグ'] = False
+    detail['削除フラグ'] = 0
+    detail['応募フラグ'] = 0
 
     sec = sp.find('table')
     ths = sec.find_all('th')
@@ -62,9 +64,11 @@ def getSpec(job):
     
     return getDetail(url)
 
-items =  ['Id', '会社名', '見出し', '仕事内容', '報酬', '掲載日', '成果物の納期予定日', 
-          '知的財産権の取扱い', '必須スキル', '歓迎スキル',  '勤務時間・業務時間',  '勤務/業務開始日',  
-          '選考の流れ', '選考期間', '仕事の期間',  '報酬の支払期日',  '支払い方法', '諸経費', '削除フラグ']
+items =  ['Id', '会社名', '見出し', '仕事内容', '報酬', 
+          '掲載日', '成果物の納期予定日', '知的財産権の取扱い', '必須スキル', '歓迎スキル',  
+          '勤務時間/業務時間',  '勤務/業務開始日', '選考の流れ', '選考期間', '仕事の期間',
+          '報酬の支払期日',  '支払い方法', '諸経費', 'url', '応募フラグ', 
+          '削除フラグ']
 
 def insertData(spec):
     conn_str = (
@@ -77,19 +81,32 @@ def insertData(spec):
 
     for sp in spec:
         sql = "INSERT INTO jobs VALUES ("
-        for item in items[:-1]:
+        for item in items[:-2]:
             try:
                 sql += "'" + spec[item] + "',"
             except:
                 print(item)
-        sql += "False)"
+#        sql += "{}, {})".format(spec['応募フラグ'], spec['削除フラグ'])
+        sql += "False,False)"
         try:
             cursor.execute(sql)
             cursor.commit()
         except pyodbc.Error as e:
-            pass
+            print('INSERT error\n', e)
+            print('sql: ', sql)
+            exit()
 
     conn.close()
+
+def print_specs(specs):
+    print()
+    for item in items:
+        if item in ['見出し', '仕事内容', '必須スキル', '歓迎スキル']:
+            print('{}: {}'.format(item, len(spec[item])))
+        elif item in keys:
+            print('{}: {}'.format(item, spec[item]))
+        else:
+            print('{} is missing.'.format(item))
 
 def main():    
 #    hfile = Path('d:\\mamaWorks\\myPage.txt')
@@ -105,15 +122,8 @@ def main():
         spec = getSpec(xs[n])
         specs.append(spec)
         keys = spec.keys()
-        print()
-        for item in items:
-            if item in ['見出し', '仕事内容', '必須スキル', '歓迎スキル']:
-                print('{}: {}'.format(item, len(spec[item])))
-            elif item in keys:
-                print('{}: {}'.format(item, spec[item]))
-            else:
-                print('{} is missing.'.format(item))
-    
+#    print_specs(specs)
+
     for spec in specs:
         insertData(spec)
     print('spec are inserted in DB')
